@@ -1,4 +1,6 @@
-![iot](https://github.com/user-attachments/assets/0735b20c-0e8a-48d0-be90-d3249fc610fb)
+
+<img width="350" height="190000" alt="iot" src="https://github.com/user-attachments/assets/3566380c-b76b-4361-8a0d-6ac03c1ae5a3" />
+
 
 # IoT Projects Repository
 
