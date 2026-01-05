@@ -12,7 +12,7 @@
 
 Este repositório contém projetos e códigos relacionados à Internet das Coisas (IoT) desenvolvidos durante minha trajetória como técnico. O objetivo é compartilhar soluções práticas, ferramentas e exemplos de implementação em diferentes plataformas e dispositivos IoT.
 
-## Projetos Incluídos
+## Projetos Interessantes
 
 1. **Projeto 1: Manipular Led e tela LCD com potenciometro**
    - Descrição: Sistema de manipulção de led com tela LCD usando potenciometro para controle.
