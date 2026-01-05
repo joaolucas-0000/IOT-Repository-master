@@ -4,7 +4,7 @@
 
 **Autor:** João Lucas Alves de Souza
 **Perfil:** Técnico em IoT e Tecnologias Assistivas
-**Última Atualização:** 20 de outubro de 2024
+**Última Atualização:** 5 de Janeiro de 2026
 
 ## Descrição
 
